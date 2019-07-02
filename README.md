@@ -52,4 +52,49 @@ https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apac
 https://softwaremill.com/what-kafka-exactly-once-really-means/
 https://news.ycombinator.com/item?id=9266725
  
- 
+-----
+
+https://www.lightbend.com/certified-reactive-architect
+
+Why Reactive
+Reactive Manifesto
+Reactive Principles
+Reactive Systems
+Reactive Programming
+Actor Model
+Domain Driven Design
+Ubiquitous Language
+Bounded Contexts
+Anti-Corruption Layers
+Command, Events, Queries
+Value Objects, Entities, Aggregates
+Services, Factories, Repositories
+Hexagonal Architecture
+Reactive Microservices
+Microservices vs Monoliths
+Isolation of State, Space, Time, Failure
+Bulkheading
+Circuit Breakers
+Gateway Services
+Consistency, Availability, Scalability
+Performance vs Scalability
+Strong Consistency vs Eventual Consistency
+Contention and Amdahl's Law
+Coherency and Gunther's Law
+Sharding
+CRDTs
+Messaging and Coordination
+Synchronous vs Asynchronous Messaging
+Saga Pattern
+Two Generals Problem
+Delivery Guarantees
+Point to Point
+Publish/Subscribe
+CQRS/ES
+Audit Logs
+Event Sourcing
+Command Sourcing
+CQRS
+Consistency, Availability, Scalability in CQRS
+
+
